@@ -1,0 +1,28 @@
+Input
+======
+
+T = 1
+N = 40
+
+Output
+=======
+
+5342931457063200
+
+
+cProfile output
+=================
+
+         123 function calls (85 primitive calls) in 1.573 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 euler005.py:13(get_smallest_number)
+        1    0.000    0.000    1.573    1.573 euler005.py:2(<module>)
+    78/40    0.000    0.000    0.000    0.000 euler005.py:2(GCD)
+       40    0.000    0.000    0.000    0.000 euler005.py:9(LCM)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        2    1.573    0.787    1.573    0.787 {raw_input}
+
+
