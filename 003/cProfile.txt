@@ -1,0 +1,26 @@
+Input
+======
+
+T = 1
+N = 10^12
+
+
+Output
+=======
+
+5
+
+cProfile output
+================
+
+         6 function calls in 5.953 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    5.953    5.953 euler003.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        2    0.000    0.000    0.000    0.000 {method 'strip' of 'str' objects}
+        2    5.953    2.976    5.953    2.976 {raw_input}
+
+
