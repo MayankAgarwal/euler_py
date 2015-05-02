@@ -28,4 +28,4 @@
 - [ ] Project Euler #17: Number to Words
 - [ ] Project Euler #18: Maximum path sum I
 - [ ] Project Euler #19: Counting Sundays
-- [ ] Project Euler #20: Factorial digit sum
+- [x] Project Euler #20: Factorial digit sum
