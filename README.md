@@ -23,7 +23,7 @@
 - [x] Project Euler #12: Highly divisible triangular number
 - [x] Project Euler #13: Large sum
 - [ ] Project Euler #14: Longest Collatz sequence
-- [ ] Project Euler #15: Lattice paths
+- [x] Project Euler #15: Lattice paths
 - [x] Project Euler #16: Power digit sum
 - [ ] Project Euler #17: Number to Words
 - [ ] Project Euler #18: Maximum path sum I
