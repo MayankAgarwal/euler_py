@@ -25,7 +25,7 @@
 - [ ] Project Euler #14: Longest Collatz sequence
 - [x] Project Euler #15: Lattice paths
 - [x] Project Euler #16: Power digit sum
-- [ ] Project Euler #17: Number to Words
+- [x] Project Euler #17: Number to Words
 - [ ] Project Euler #18: Maximum path sum I
 - [ ] Project Euler #19: Counting Sundays
 - [x] Project Euler #20: Factorial digit sum
