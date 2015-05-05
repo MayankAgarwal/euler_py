@@ -12,7 +12,7 @@ ___
 
 | Total problems | Problems solved | Remaining |
 |:--------------:|:---------------:|:---------:|
-|81 | 17 | 64 |
+|81 | 18 | 63 |
 
 <br><br>
 
@@ -43,7 +43,7 @@ ___
 - [x] Project Euler #22: Names scores
 - [ ] Project Euler #23: Non-abundant sums
 - [ ] Project Euler #24: Lexicographic permutations
-- [ ] Project Euler #25: N-digit Fibonacci number
+- [x] Project Euler #25: N-digit Fibonacci number
 - [ ] Project Euler #26: Reciprocal cycles
 - [ ] Project Euler #27: Quadratic primes
 - [ ] Project Euler #28: Number spiral diagonals
