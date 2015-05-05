@@ -5,9 +5,19 @@
 
 **Problems URL** : https://www.hackerrank.com/contests/projecteuler/challenges
 
+<br><br>
+
+###### Progress
+___
+
+| Total problems | Problems solved | Remaining |
+|:--------------:|:---------------:|:---------:|
+|81 | 17 | 64 |
+
+<br><br>
 
 ##### Tasklist
----
+___
 
 - [x] Project Euler #1: Multiples of 3 and 5
 - [x] Project Euler #2: Even Fibonacci numbers
@@ -30,5 +40,12 @@
 - [ ] Project Euler #19: Counting Sundays
 - [x] Project Euler #20: Factorial digit sum
 - [ ] Project Euler #21: Amicable numbers
-- [ ] Project Euler #22: Names scores
+- [x] Project Euler #22: Names scores
 - [ ] Project Euler #23: Non-abundant sums
+- [ ] Project Euler #24: Lexicographic permutations
+- [ ] Project Euler #25: N-digit Fibonacci number
+- [ ] Project Euler #26: Reciprocal cycles
+- [ ] Project Euler #27: Quadratic primes
+- [ ] Project Euler #28: Number spiral diagonals
+- [ ] Project Euler #29: Distinct powers
+- [ ] Project Euler #30: Digit Nth powers
