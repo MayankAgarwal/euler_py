@@ -29,3 +29,6 @@
 - [ ] Project Euler #18: Maximum path sum I
 - [ ] Project Euler #19: Counting Sundays
 - [x] Project Euler #20: Factorial digit sum
+- [ ] Project Euler #21: Amicable numbers
+- [ ] Project Euler #22: Names scores
+- [ ] Project Euler #23: Non-abundant sums
