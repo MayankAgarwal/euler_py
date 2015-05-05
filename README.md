@@ -12,7 +12,7 @@ ___
 
 | Total problems | Problems solved | Remaining |
 |:--------------:|:---------------:|:---------:|
-|81 | 18 | 63 |
+|81 | 19 | 62 |
 
 <br><br>
 
@@ -41,7 +41,7 @@ ___
 - [x] Project Euler #20: Factorial digit sum
 - [ ] Project Euler #21: Amicable numbers
 - [x] Project Euler #22: Names scores
-- [ ] Project Euler #23: Non-abundant sums
+- [x] Project Euler #23: Non-abundant sums
 - [ ] Project Euler #24: Lexicographic permutations
 - [x] Project Euler #25: N-digit Fibonacci number
 - [ ] Project Euler #26: Reciprocal cycles
