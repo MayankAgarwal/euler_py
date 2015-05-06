@@ -1,7 +1,11 @@
 ### Project Euler #21: Amicable numbers
 ___
 
-<br><br>
+<br>
+
+[HackerRank URL](https://www.hackerrank.com/contests/projecteuler/challenges/euler021)     [Project Euler URL](https://projecteuler.net/problem=21)
+
+<br>
 
 ##### Problem Statement
 
@@ -21,23 +25,24 @@ Evaluate the sum of all the amicable numbers under N.
 ##### Input Format 
 
 The first line contains an integer T , i.e., number of test cases. 
+
 Next T lines will contain an integer N.
 
-<br><br>
+<br>
 
 ##### Output Format 
 
 Print the values corresponding to each test case.
 
-<br><br>
+<br>
 
 ##### Constraints 
 
 1 ≤ T ≤ 1000 
 
-1 ≤ N ≤ 105
+1 ≤ N ≤ 10^5
 
-<br><br>
+<br>
 
 ##### Sample Input
 
@@ -46,7 +51,7 @@ Print the values corresponding to each test case.
 300
 ```
 
-<br><br>
+<br>
 
 ##### Sample Output
 
