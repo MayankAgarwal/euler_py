@@ -12,7 +12,7 @@ ___
 
 | Total problems | Problems solved | Remaining |
 |:--------------:|:---------------:|:---------:|
-|81 | 19 | 62 |
+|81 | 20 | 61 |
 
 <br><br>
 
@@ -39,7 +39,7 @@ ___
 - [ ] Project Euler #18: Maximum path sum I
 - [ ] Project Euler #19: Counting Sundays
 - [x] Project Euler #20: Factorial digit sum
-- [ ] Project Euler #21: Amicable numbers
+- [x] Project Euler #21: Amicable numbers
 - [x] Project Euler #22: Names scores
 - [x] Project Euler #23: Non-abundant sums
 - [ ] Project Euler #24: Lexicographic permutations
