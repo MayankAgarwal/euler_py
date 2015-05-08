@@ -12,7 +12,7 @@ ___
 
 | Total problems | Problems solved | Remaining |
 |:--------------:|:---------------:|:---------:|
-|81 | 21 | 60 |
+|81 | 22 | 59 |
 
 <br><br>
 
@@ -36,7 +36,7 @@ ___
 - [x] Project Euler #15: Lattice paths
 - [x] Project Euler #16: Power digit sum
 - [x] Project Euler #17: Number to Words
-- [ ] Project Euler #18: Maximum path sum I
+- [x] Project Euler #18: Maximum path sum I
 - [ ] Project Euler #19: Counting Sundays
 - [x] Project Euler #20: Factorial digit sum
 - [x] Project Euler #21: Amicable numbers
